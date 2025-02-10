@@ -8,12 +8,14 @@ Service Discovery: Eureka Server
 API Gateway: Spring Cloud Gateway
 Database: MySQL
 Communication: REST APIs
+
 📌 Microservices Architecture
 Eureka Server: Manages service discovery
 API Gateway: Routes requests to appropriate services
 User Service: Manages user registration and profiles
 Product Service: Handles product catalog, categories, and availability
 Order Service: Manages order placement and tracking
+
 🚀 Features
 ✅ User registration and profile management
 ✅ Product catalog management
@@ -21,6 +23,7 @@ Order Service: Manages order placement and tracking
 ✅ Microservices communication via Eureka
 ✅ API Gateway for centralized routing
 ✅ Secure database transactions
+
 🔧 Setup & Run
 Clone the repository
 Start Eureka Server (eureka-server module)
